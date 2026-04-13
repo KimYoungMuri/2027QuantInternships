@@ -58,7 +58,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002)|
+|QR|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)|
 
 
 ## Arrowstreet Capital
